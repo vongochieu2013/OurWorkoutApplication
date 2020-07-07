@@ -1,0 +1,16 @@
+<resources>
+  <string name="app_name">MyWorkoutApplication</string>
+  <string name="check_box">com.example.myworkoutapplication.check_box</string>
+  <string name="username">com.example.myworkoutapplication.username</string>
+  <string name="password">com.example.myworkoutapplication.password</string>
+  <string name="back_character"> &#60;</string>
+  <string name="next_character"> &#62;</string>
+
+
+  <string-array name="workoutType">
+    <item>Walk</item>
+    <item>Jog</item>
+    <item>Run</item>
+    <item>Sprint</item>
+  </string-array>
+</resources>
